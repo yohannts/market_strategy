@@ -1,5 +1,6 @@
 # Market Strategy
-Idea is to create a tool that can help you to both test strategies and give you a trend based on the past. I use this dataset from [Kaggle.com](https://www.kaggle.com/paultimothymooney/stock-market-data).
+Idea is to create a tool that can help you to both test strategies and give you a trend based on the past. I use this dataset from [Kaggle.com](https://www.kaggle.com/paultimothymooney/stock-market-data).   
+Once one part (or more) will be finished, i will maybe put that on a website and change the data optention in order to have something almost in direct and usefull for someone. 
 
 ## Plan
 I will divide this work in three parts:
